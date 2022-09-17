@@ -1,0 +1,4 @@
+item_name,is_expense,quantity,sum_of_one;
+Воздушные шарики,true,5000,4;
+Автоматы с мороженным,true,12,15000;
+Продажа мороженного,false,1000,120

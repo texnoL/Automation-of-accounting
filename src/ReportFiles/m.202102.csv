@@ -1,0 +1,4 @@
+item_name,is_expense,quantity,sum_of_one;
+Концелярия,true,7000,4;
+Автоматы кофе,true,12,19000;
+Продажа кофе,false,1000,120
